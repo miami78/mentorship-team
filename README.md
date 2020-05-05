@@ -1,0 +1,3 @@
+# Node.js Mentorship Program
+
+I am an avid believer in mentorship programs and being part of a team with a strong engineering culture that pushes engineers to settle for nothing less than excellence. I want to be amongst the heroes behind the platform, i want to learn from the greatest and help the company continue innovating. The culture and exposure in such an environment will help me be a better engineer in the long run.
